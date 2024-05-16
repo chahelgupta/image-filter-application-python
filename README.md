@@ -24,7 +24,8 @@ Pillow (PIL)
 Usage:
 
 Clone the repository to your local machine.
-Install the required dependencies (pip install -r requirements.txt).
+Install the required dependencies (mentioned in code).
+Change the image path to your required path.
 Run the image_filter.py script.
 Select an image source and apply filters as desired.
 Feel free to contribute, suggest improvements, or report issues!
